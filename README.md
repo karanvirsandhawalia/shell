@@ -1,1 +1,1 @@
-# shell
+# This project is a custom Linux shell called mysh, built in C. It implements core shell features such as command parsing, environment variables, file system navigation, pipes, background processes, signal handling, and basic networking. Over several milestones, the shell grows to support built-in commands (echo, cd, ls, cat, wc, ps, kill, etc.), piping, job control with &, and a multi-client chat server using sockets. The final version combines process management, networking, and robust error handling to create a fully functional command-line shell.
